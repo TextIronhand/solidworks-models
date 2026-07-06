@@ -18,7 +18,8 @@ This repository serves as a digital portfolio of my practical CAD skills, rangin
 ### 2. Inline-4 Engine Rotating Assembly
 * **Description:** A comprehensive 3D CAD model and kinematic assembly of an Inline-4 (I4) internal combustion engine's rotating components. This complex project includes intricately modeled pistons, piston rings, piston pins, connecting rods, and a precise crankshaft. The assembly utilizes advanced mechanical mates to simulate realistic engine timing and slider-crank kinematics.
 * **Visual:**
-  ![Inline-4 Engine Assembly](https://github.com/TextIronhand/solidworks-models/blob/main/Inline-4%20Engine%20Rotating%20Assembly%20/ScreenShot%20Assambly.png?raw=true)
+  ![Inline-4 Engine Assembly](<img width="1581" height="1012" alt="image" src="https://github.com/user-attachments/assets/5f24757f-0520-40f1-a159-8c1191eb519a" />
+)
 
 ### 3. Lathe Tool Post Assembly
 * **Description:** A complete mechanical assembly of a traditional lathe tool post, an essential clamping fixture used in turning operations. The project features individually modeled components including the base plate, main body, clamping nut, threaded studs, and a locking handle. This assembly highlights proficiency in creating manufacturing tool fixtures and detailing hardware components for machine tools.
