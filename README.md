@@ -13,7 +13,7 @@ This repository serves as a digital portfolio of my practical CAD skills, rangin
 ### 1. Lightweight Linkage Arm (Bell Crank)
 * **Description:** A mechanical linkage component optimized for motion and force transmission. The design incorporates strategically placed weight-reduction pockets to minimize overall mass while ensuring structural integrity, reflecting critical design principles common in aerospace and automotive systems. Developed in SolidWorks using advanced extrusion, pocketing, and filleting features.
 * **Visual:**
-  ![Bell Crank CAD Model]((https://github.com/TextIronhand/solidworks-models/blob/main/Bell-Crank/Screenshot%202026-07-06%20125606.png?raw=true))
+  ![Bell Crank CAD Model]((https://github.com/TextIronhand/solidworks-models/blob/main/Bell-Crank/Screenshot%202026-07-06%20125606.png?raw=true)
 
 ### 2. Inline-4 Engine Rotating Assembly
 * **Description:** A comprehensive 3D CAD model and kinematic assembly of an Inline-4 (I4) internal combustion engine's rotating components. This complex project includes intricately modeled pistons, piston rings, piston pins, connecting rods, and a precise crankshaft. The assembly utilizes advanced mechanical mates to simulate realistic engine timing and slider-crank kinematics.
