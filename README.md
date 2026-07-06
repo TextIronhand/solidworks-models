@@ -45,6 +45,10 @@ This repository serves as a digital portfolio of my practical CAD skills, rangin
 * **Visual:**
   ![Tool Holder Assembly](https://github.com/TextIronhand/solidworks-models/blob/main/Tool%20Holder%20Assembly/Assembly%20Screenshot2026-07-06%20161208.png?raw=true)
 
+### 7. Technical Drawing Examples
+* **Description:** This repository contains the technical drawings and engineering documentations for my mechanical design projects. All drawings are prepared according to international engineering standards, focusing on manufacturing feasibility and precision.
+* **Visual:**
+  ![Technical Drawings](https://github.com/TextIronhand/solidworks-models/blob/main/Technical-Drawing/Technical%20Drawings%20.png?raw=true)
 
 ## 🛠️ Technical Skills Portfolio
 While this repository focuses on **SolidWorks**, my broader engineering software stack includes:
