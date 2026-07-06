@@ -40,6 +40,12 @@ This repository serves as a digital portfolio of my practical CAD skills, rangin
 * **Visual:**
   ![Knuckle Joint Assembly](https://github.com/TextIronhand/solidworks-models/blob/main/Knuckle%20Joint%20Assembly%20/Assebly%20Screenshot%20.png?raw=true)
 
+### 6. Tool Holder Assembly
+* **Description:** This project comprises a high-precision **Tool Holder Assembly** designed for use in machine tool environments. The assembly incorporates a manual locking lever for rapid adjustments, a rotating base for angular positioning, and a mounting spindle for securing cutting tools. It is engineered to maintain rigidity and accuracy during machining operations.
+* **Visual:**
+  ![Tool Holder Assembly](https://github.com/TextIronhand/solidworks-models/blob/main/Tool%20Holder%20Assembly/Assembly%20Screenshot2026-07-06%20161208.png?raw=true)
+
+
 ## 🛠️ Technical Skills Portfolio
 While this repository focuses on **SolidWorks**, my broader engineering software stack includes:
 * **CAD/CAM:** SolidWorks, AutoCAD, Catia V5, Siemens NX
