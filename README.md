@@ -9,17 +9,31 @@ This repository serves as a digital portfolio of my practical CAD skills, rangin
 
 ## 📂 Project Gallery
 
-*(Not: Buraya yükleyeceğimiz projelerin ekran görüntülerini ve isimlerini ekleyeceğiz. Şimdilik taslak olarak kalabilir.)*
 
-### 1. [Projenin Adı - Örn: V6 Engine Block]
-* **Description:** A brief explanation of the project, the purpose of the design, and the specific SolidWorks features used (e.g., Loft, Sweep, Sheet Metal).
+### 1. Lightweight Linkage Arm (Bell Crank)
+* **Description:** A mechanical linkage component optimized for motion and force transmission. The design incorporates strategically placed weight-reduction pockets to minimize overall mass while ensuring structural integrity, reflecting critical design principles common in aerospace and automotive systems. Developed in SolidWorks using advanced extrusion, pocketing, and filleting features.
 * **Visual:**
-  ![Proje Görseli](GÖRSEL_LİNKİ_BURAYA_GELECEK)
+  ![Bell Crank CAD Model]((https://github.com/TextIronhand/solidworks-models/blob/main/Bell-Crank/Screenshot%202026-07-06%20125606.png?raw=true))
 
-### 2. [Projenin Adı - Örn: Suspension System Assembly]
-* **Description:** Details about the assembly, mates used, and any motion studies performed.
+### 2. Inline-4 Engine Rotating Assembly
+* **Description:** A comprehensive 3D CAD model and kinematic assembly of an Inline-4 (I4) internal combustion engine's rotating components. This complex project includes intricately modeled pistons, piston rings, piston pins, connecting rods, and a precise crankshaft. The assembly utilizes advanced mechanical mates to simulate realistic engine timing and slider-crank kinematics.
 * **Visual:**
-  ![Proje Görseli](GÖRSEL_LİNKİ_BURAYA_GELECEK)
+  ![Inline-4 Engine Assembly](https://github.com/TextIronhand/solidworks-models/blob/main/Inline-4%20Engine%20Rotating%20Assembly%20/ScreenShot%20Assambly.png?raw=true)
+
+### 3. Lathe Tool Post Assembly
+* **Description:** A complete mechanical assembly of a traditional lathe tool post, an essential clamping fixture used in turning operations. The project features individually modeled components including the base plate, main body, clamping nut, threaded studs, and a locking handle. This assembly highlights proficiency in creating manufacturing tool fixtures and detailing hardware components for machine tools.
+* **Visual:**
+  ![Lathe Tool Post Assembly](https://github.com/TextIronhand/solidworks-models/blob/main/Lathe%20Tool%20Post%20Assembly/Assembly%202%202026-07-06%20135747.png?raw=true)
+
+### 4. Ratchet Pawl (Release Lever)
+* **Description:** A precision mechanical component designed for engagement in a ratchet mechanism or release system. The design features a central pivot bore and a specifically contoured contact arm, optimized for controlled motion transfer and effective load distribution. Modeled in SolidWorks with a focus on functional kinematics.
+* **Visual:**
+  ![Ratchet Pawl CAD Model](https://github.com/TextIronhand/solidworks-models/blob/main/Ratchet-Pawl/Screenshot%202026-07-06%20130509.png?raw=true)
+
+### 5. V-Block Clamp Assembly (Machining Fixture)
+* **Description:** A complete mechanical assembly of a shaft clamping fixture, commonly used in machining and manufacturing environments. The system consists of a V-grooved base for cylindrical part alignment, a threaded U-clamp bracket, and a securing rod. This project demonstrates proficiency in bottom-up assembly modeling, applying mechanical mates, and designing functional holding fixtures.
+* **Visual:**
+  ![V-Block Clamp Assembly](https://github.com/TextIronhand/solidworks-models/blob/main/V-Block%20Clamp%20Assembly/ScreenShot%20Assembly%202026-07-06%20142819.png?raw=true)
 
 ## 🛠️ Technical Skills Portfolio
 While this repository focuses on **SolidWorks**, my broader engineering software stack includes:
