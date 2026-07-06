@@ -35,6 +35,11 @@ This repository serves as a digital portfolio of my practical CAD skills, rangin
 * **Visual:**
   ![V-Block Clamp Assembly](https://github.com/TextIronhand/solidworks-models/blob/main/V-Block%20Clamp%20Assembly/ScreenShot%20Assembly%202026-07-06%20142819.png?raw=true)
 
+### 6. Knuckle Joint Assembly
+* **Description:** This project features a SolidWorks assembly of a standard **Knuckle Joint** mechanism. The design is intended to demonstrate mechanical linkage, structural connectivity, and the integration of various power transmission components within a constrained assembly environment..
+* **Visual:**
+  ![Knuckle Joint Assembly](https://github.com/TextIronhand/solidworks-models/blob/main/Knuckle%20Joint%20Assembly%20/Assebly%20Screenshot%20.png?raw=true)
+
 ## 🛠️ Technical Skills Portfolio
 While this repository focuses on **SolidWorks**, my broader engineering software stack includes:
 * **CAD/CAM:** SolidWorks, AutoCAD, Catia V5, Siemens NX
